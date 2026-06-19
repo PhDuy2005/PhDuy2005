@@ -1,4 +1,10 @@
-## Hello, World! 👋 I'm Duy Pham
+<p align="center">
+  <img src="./asset/DuyPham.jpg" width="160" alt="Duy Pham" />
+</p>
+
+<h1 align="center">Hello, World! 👋 I'm Duy Pham</h1>
+
+---
 
 ---
 
