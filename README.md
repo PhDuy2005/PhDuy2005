@@ -4,10 +4,6 @@
 
 <h1 align="center">Hello, World! 👋 I'm Duy Pham</h1>
 
----
-
----
-
 I'm expected to graduate in June 2027 with a Bachelor's degree in Software Engineering from the University of Information Technology, Vietnam National University Ho Chi Minh City (UIT-VNUHCM).
 
 I'm currently looking for opportunities as a Software Developer, with a strong interest in backend development, software architecture, and building practical systems that solve real-world problems.
